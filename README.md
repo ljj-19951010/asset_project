@@ -296,10 +296,10 @@ ports:
 
 ## 📄 License
 
-> TODO：选择并填写许可证，例如 MIT / Apache-2.0 / 内部私有。
+> MIT / Apache-2.0 / 内部私有。
 
 ---
 
 ## 👥 维护者
 
-- TODO：填写维护者姓名 / 联系方式
+- TODO：Jinjing Liu
